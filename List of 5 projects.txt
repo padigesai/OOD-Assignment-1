@@ -1,0 +1,9 @@
+https://github.com/NationalSecurityAgency/ghidra
+
+https://github.com/Minestom/Minestom
+
+https://github.com/halo-dev/halo
+
+https://github.com/android-hacker/VirtualXposed
+
+https://github.com/tchiotludo/akhq
